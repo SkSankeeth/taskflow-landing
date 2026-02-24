@@ -1,0 +1,41 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <link rel="icon" type="image/svg+xml" href="/vite.svg" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    
+    <!-- SEO Meta Tags -->
+    <title>FlowTask - Modern Project Management for Teams</title>
+    <meta name="description" content="Streamline your workflow with FlowTask. The all-in-one project management platform with real-time collaboration, time tracking, and advanced analytics." />
+    <meta name="keywords" content="project management, task management, team collaboration, productivity, workflow" />
+    
+    <!-- Open Graph / Facebook -->
+    <meta property="og:type" content="website" />
+    <meta property="og:title" content="FlowTask - Modern Project Management for Teams" />
+    <meta property="og:description" content="Streamline your workflow with FlowTask. The all-in-one project management platform your team will love." />
+    
+    <!-- Twitter -->
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content="FlowTask - Modern Project Management for Teams" />
+    <meta name="twitter:description" content="Streamline your workflow with FlowTask. The all-in-one project management platform your team will love." />
+    
+    <!-- Google Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet" />
+    
+    <!-- Prevent dark mode flash -->
+    <script>
+      (function() {
+        const theme = localStorage.getItem('theme') || 
+                     (window.matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light');
+        document.documentElement.classList.add(theme);
+      })();
+    </script>
+  </head>
+  <body>
+    <div id="root"></div>
+    <script type="module" src="/src/main.jsx"></script>
+  </body>
+</html>
