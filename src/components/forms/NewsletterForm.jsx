@@ -29,7 +29,7 @@ export function NewsletterForm() {
         <div className="flex items-center p-4 bg-green-50 dark:bg-green-900/20 border border-green-200 dark:border-green-800 rounded-lg">
           <CheckCircle className="w-5 h-5 text-green-600 dark:text-green-400 mr-3" />
           <p className="text-green-800 dark:text-green-300 font-medium">
-            Thanks for subscribing!
+            You're subscribed! Watch for updates in your inbox.
           </p>
         </div>
       ) : (

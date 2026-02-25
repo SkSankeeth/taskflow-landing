@@ -30,10 +30,10 @@ export function ContactForm() {
       <Card className="text-center py-12">
         <CheckCircle className="w-16 h-16 text-green-500 mx-auto mb-4" />
         <h3 className="text-2xl font-bold text-gray-900 dark:text-white mb-2">
-          Message sent successfully!
+          Thank you for reaching out
         </h3>
         <p className="text-gray-600 dark:text-gray-400">
-          We'll get back to you as soon as possible.
+          We've received your message and will respond within 24 hours.
         </p>
       </Card>
     );

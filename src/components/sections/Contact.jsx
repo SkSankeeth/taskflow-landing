@@ -6,8 +6,8 @@ export function Contact() {
     {
       icon: Mail,
       label: 'Email',
-      value: 'support@flowtask.com',
-      href: 'mailto:support@flowtask.com',
+      value: 'support@taskflow.com',
+      href: 'mailto:support@taskflow.com',
     },
     {
       icon: Phone,

@@ -18,13 +18,14 @@ export function Hero() {
             </div>
             
             <h1 className="text-4xl md:text-5xl lg:text-6xl font-bold text-gray-900 dark:text-white mb-6 leading-tight">
-              Manage Projects Like a
-              <span className="bg-gradient-to-r from-primary-600 to-secondary-600 bg-clip-text text-transparent"> Pro</span>
+              Deliver Projects
+              <span className="bg-gradient-to-r from-primary-600 to-secondary-600 bg-clip-text text-transparent"> 2x Faster</span>
+              <br />With Seamless Collaboration
             </h1>
             
-            <p className="text-lg md:text-xl text-gray-600 dark:text-gray-400 mb-8 leading-relaxed">
-              Streamline your workflow, collaborate in real-time, and ship faster. 
-              The all-in-one project management platform your team will actually love.
+            <p className="text-lg md:text-xl text-gray-600 dark:text-gray-400 mb-8 leading-relaxed max-w-xl">
+              The only project management platform that brings your team together with real-time sync, 
+              smart automation, and analytics that actually help you ship on time.
             </p>
             
             <div className="flex flex-col sm:flex-row gap-4">

@@ -120,7 +120,7 @@ export function Footer() {
         <div className="flex flex-col md:flex-row items-center justify-between pt-8 border-t border-gray-200 dark:border-gray-800">
           <div className="flex items-center mb-4 md:mb-0">
             <p className="text-2xl font-bold bg-gradient-to-r from-primary-600 to-secondary-600 bg-clip-text text-transparent mr-4">
-              FlowTask
+              TaskFlow
             </p>
             <p className="text-gray-600 dark:text-gray-400 text-sm">
               © {currentYear} FlowTask. All rights reserved.

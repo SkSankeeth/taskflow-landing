@@ -12,7 +12,7 @@ export function Testimonials() {
             Loved by teams everywhere
           </h2>
           <p className="text-lg text-gray-600 dark:text-gray-400">
-            See what our customers have to say about their experience with FlowTask.
+            See what our customers have to say about their experience with TaskFlow.
           </p>
         </div>
 

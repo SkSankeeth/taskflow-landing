@@ -1,4 +1,4 @@
-# FlowTask - Modern SaaS Landing Page
+# TaskFlow - Modern SaaS Landing Page
 
 A portfolio-quality, production-ready SaaS landing page built for a Project Management platform.
 
@@ -98,7 +98,7 @@ Update static content in the `src/data/` directory:
 
 ### Branding
 
-Replace "FlowTask" in:
+Replace "TaskFlow" in:
 - `src/components/layout/Header.jsx`
 - `src/components/layout/Footer.jsx`
 - `index.html` title and meta tags
@@ -132,10 +132,37 @@ Output directory: `dist`
 - Performance optimized
 - Production-ready
 
-## 📄 License
+---
 
-MIT License - Feel free to use this for your portfolio or projects.
+## 📸 Portfolio Description (For Upwork)
+
+**Title:**  
+Modern SaaS Landing Page – React + Tailwind CSS
+
+**Description:**
+
+**Problem:**  
+A startup needed a modern landing page to present their project management platform and attract early users with a professional, conversion-focused design.
+
+**Solution:**  
+Designed and developed a fully responsive SaaS landing page using React and Tailwind CSS with dark mode support, pricing sections, testimonials, and validated contact forms. Focused on clean UI, performance optimization, and mobile-first approach.
+
+**Key Features:**
+• Mobile-first responsive design across all breakpoints  
+• Dark mode with localStorage persistence (no flash on load)  
+• Reusable component architecture for easy maintenance  
+• Professional typography and intentional spacing  
+• Optimized performance build (~241KB gzipped)  
+• Form validation with professional user feedback  
+
+**Tech Stack:**  
+React, Vite, Tailwind CSS, React Hook Form, Lucide Icons
+
+**Live Demo:**  
+[Your Vercel Link Here]
 
 ---
 
-**Built with ❤️ for Upwork Portfolio**
+## 📄 License
+
+MIT License - Feel free to use this for your portfolio or projects.

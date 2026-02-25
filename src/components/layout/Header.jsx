@@ -30,7 +30,7 @@ export function Header() {
           {/* Logo */}
           <div className="flex items-center">
             <a href="#" className="text-2xl font-bold bg-gradient-to-r from-primary-600 to-secondary-600 bg-clip-text text-transparent">
-              FlowTask
+              TaskFlow
             </a>
           </div>
 
