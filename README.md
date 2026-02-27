@@ -134,7 +134,7 @@ Output directory: `dist`
 
 ---
 
-## 📸 Portfolio Description (For Upwork)
+## 📸 Portfolio Description
 
 **Title:**  
 Modern SaaS Landing Page – React + Tailwind CSS
