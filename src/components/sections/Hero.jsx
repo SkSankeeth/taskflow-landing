@@ -72,7 +72,7 @@ export function Hero() {
               <div className="rounded-2xl shadow-2xl overflow-hidden bg-gradient-to-br from-primary-500 to-secondary-500 p-1">
                 <div className="bg-white dark:bg-gray-800 rounded-xl p-4 md:p-5">
                   <img
-                    src="/taskflow-dashboard.svg"
+                    src="/hero.png"
                     alt="TaskFlow dashboard preview showing tasks, analytics, and team collaboration widgets"
                     className="w-full rounded-lg border border-gray-200 dark:border-gray-700"
                     loading="lazy"
