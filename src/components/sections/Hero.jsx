@@ -70,13 +70,13 @@ export function Hero() {
           <div className="relative animate-fade-in">
             <div className="relative z-10">
               <div className="rounded-2xl shadow-2xl overflow-hidden bg-gradient-to-br from-primary-500 to-secondary-500 p-1">
-                <div className="bg-white dark:bg-gray-800 rounded-xl p-8">
-                  <div className="aspect-[4/3] bg-gradient-to-br from-primary-100 to-secondary-100 dark:from-primary-900/20 dark:to-secondary-900/20 rounded-lg flex items-center justify-center">
-                    <p className="text-gray-500 dark:text-gray-400 text-center px-4">
-                      🎨 Hero Illustration Placeholder<br />
-                      <span className="text-sm">Replace with dashboard screenshot or illustration</span>
-                    </p>
-                  </div>
+                <div className="bg-white dark:bg-gray-800 rounded-xl p-4 md:p-5">
+                  <img
+                    src="/taskflow-dashboard.svg"
+                    alt="TaskFlow dashboard preview showing tasks, analytics, and team collaboration widgets"
+                    className="w-full rounded-lg border border-gray-200 dark:border-gray-700"
+                    loading="lazy"
+                  />
                 </div>
               </div>
             </div>
