@@ -12,13 +12,13 @@ export function Contact() {
     {
       icon: Phone,
       label: 'Phone',
-      value: '+1 (555) 123-4567',
-      href: 'tel:+15551234567',
+      value: '+94 78 00 00 001',
+      href: 'tel:+94780000001',
     },
     {
       icon: MapPin,
       label: 'Address',
-      value: 'San Francisco, CA 94102',
+      value: 'Colombo, Sri Lanka',
       href: null,
     },
   ];

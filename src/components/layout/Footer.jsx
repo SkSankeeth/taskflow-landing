@@ -123,7 +123,7 @@ export function Footer() {
               TaskFlow
             </p>
             <p className="text-gray-600 dark:text-gray-400 text-sm">
-              © {currentYear} FlowTask. All rights reserved.
+              © {currentYear} TaskFlow. All rights reserved.
             </p>
           </div>
 
